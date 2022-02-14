@@ -12,6 +12,7 @@ void main() {
     print("Nama anda bukan Andi, Budi atau Cahyo, tetapi $nama");
   }
 
+  //atau
   switch (nama) {
     case "Andi":
       print("Nama anda Andi");

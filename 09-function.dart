@@ -3,7 +3,7 @@ void main() {
       1, 8, 9); // memanggil function penjumlahan sekaligus mengirim 3 parameter
   pengurangan(
       9, 7); // memanggil function pengurangan sekaligus mengirim 2 parameter
-  sapa("Budi");
+  sapa("Budi"); //memanggil function sapa sekaligus mengirim 1 parameter
 }
 
 void penjumlahan(int angka1, int angka2, int angka3) {
